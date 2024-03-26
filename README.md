@@ -6,6 +6,11 @@ This repository contains all weekly tasks required for 'Programming and Scriptin
 
 ***
 
+_Week 1_
+
+This program just displays 'Hello World!' when it is run
+
+***
 
 
 
