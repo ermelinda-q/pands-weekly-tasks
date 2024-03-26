@@ -1,12 +1,13 @@
+# Programming and Scripting
 # Week 2 - weekly tasks
-# This program ask the user to enter two amounts in cents, reads in the amounts, adds them and prints out the total amount 
-# Print out format int the end: €2.22
+# This program ask the user to enter two amounts in cents, reads in the amounts, adds them and prints out the total amount in cent.
+# Print out format @ the end with the euro sign - e.g: 2.22
 
 # Author: Ermelinda Qejvani
 
 
-first_amount = int(input('Enter your first amount(in cent): '))  # asking the user to enter their first cent amount
-print(f'The amount you entered is  {first_amount} cent')              # confirming the amount entered
+first_amount = int(input('Enter your first amount(in cent): ')) # asking the user to enter their first cent amount
+print(f'The amount you entered is  {first_amount} cent')              # message displayed with the amount entered
 
 second_amount = int(input('Enter your second amount(in cent): '))        # asking the user to enter their second amount.
 print(f'The amount you entered is {second_amount} cent')             # displaying the second amount entered.
