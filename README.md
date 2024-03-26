@@ -17,6 +17,7 @@ Filename: _helloworld.py_
 __Week 2__
 
 Filename: bank.py
+
 Task: Write a program that should:
 1. Prompt the user and read in two money amounts (in cent)
 2. Add the two amounts
