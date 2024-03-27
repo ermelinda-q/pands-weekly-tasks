@@ -25,7 +25,7 @@ Task: Write a program that should:
 
 References:
 1. Week 2 lecture by Andrew Beatty
-2. [F String Formation](https://realpython.com/python-f-strings/)
+2. [Python's F-String](https://realpython.com/python-f-strings/)
 
 ***
 
