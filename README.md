@@ -1,5 +1,5 @@
 ## Module: Programming and Scripting 
-#### Task: Weekly tasks
+#### Weekly tasks
 ##### *Author: Ermelinda Qejvani*
 
 This repository contains all weekly tasks required for 'Programming and Scripting' module.
@@ -8,7 +8,7 @@ This repository contains all weekly tasks required for 'Programming and Scriptin
 
 __Week 1__
 
-This program just displays 'Hello World!' when it is run
+This is my first program in python. It prints out 'Hello World'
 
 Filename: _helloworld.py_
 
