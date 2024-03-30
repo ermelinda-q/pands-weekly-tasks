@@ -1,25 +1,21 @@
 # Programming and Scripting
-# Week 5 weekly tasks
-# This program will display the day of the week and
-# a message the following message:
-# 'Today is (whatever week day).'
-# 'Whatever week day' is a weekday!'
-# or' 
-# 'Today is (whatever week day)'
-# 'It is the weekend, yay!'
+# Week 5 - weekly tasks
+# This program will display the day of the week, date, month, year and
+# depending on the day of the week one of the following messages:
+# 'Yes, unfortunately today is a weekday!' or 'It is the weekend, yay!'
 # Author: Ermelinda Qejvani
 
-from datetime import datetime # calling built in module datetime
+import datetime                                         # calling built in module datetime
 
-today_date = datetime.today()  # with this we are gettin first the date and time - full info about the day
+today_date = datetime.date.today()                      # variable today_date is storing today's date 'datetime.date returns the date without the hours'
 
-# print(today_date)  ---------- I used this code to check that the above code was working or not
+current_day = today_date.strftime('%A')                 # current_day is storing the name of the day in full format eg: Monday
+current_date = today_date.strftime('%d %B %Y')          # current_date is storing the date, month(in full) and year
 
-today_name = str(today_date.strftime('%A'))   # reading the day from today_date as a string
+print(f"Today is {current_day}, {current_date}")        # output message with the day, date, month and year
 
-if today_name != ["Saturday", "Sunday"]: # checking if weekend
-    print(f"Today is: {today_name}")           # displaying information
-    print("Yes, unfortunately today is a weekday!")
-else:   # if weekend
-    print(f"Today is: {today_name}")
-    print(f"It is the weekend, yay!")
+if current_day in {"Saturday", "Sunday"}:               # check: if it is Saturday or Sunday
+    print("It is the weekend, yay!")                    # output message
+else:                                                   # if it is not Saturday or Sunday
+    print("Yes, unfortunately today is a weekday!")     # output message
+    

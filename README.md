@@ -66,6 +66,25 @@ References:
 
 __Week 5 - Data__
 
+Filename: weekday.py
+
+Task: Write a program that outputs whether or not today is a weekday.
+
+This program will display:
+1. the day of the week, date, month, year
+2. Depending on the day of the week, it will also display one of the following messages:
+    - 'Yes, unfortunately today is a weekday!' or 
+    - 'It is the weekend, yay!'
+
+References:
+[Python datetime.strftime()](https://www.programiz.com/python-programming/datetime/strftime)
+
+***
+
+__Week 6 - Functions__
+
+Filename: 
+
 
 
 
