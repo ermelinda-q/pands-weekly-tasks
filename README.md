@@ -45,7 +45,28 @@ References:
 
 ***
 
-__Week 4__
+__Week 4 - Controlling the flow__
+
+Filename: collatz.py
+
+Task: Write a program that:
+1. Asks the user to input any positive integer
+2. Outputs the successive values of the following calculations
+    - At each step calculate next value by taking the current value and:
+        1. if even divide it by two
+        2. if odd multiply it by three and add one.
+3. Have the program end if the current value is one.
+
+References:
+1. [YouTube video on the collatz conjecture(Veritasium)](https://www.youtube.com/watch?v=094y1Z2wpJg&t=1s)
+2. [Collatz conjecture sequence](https://stackoverflow.com/questions/13366830/collatz-conjecture-sequence)
+3. [Using 'while True' function](https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response)
+
+***
+
+__Week 5 - Data__
+
+
 
 
 
