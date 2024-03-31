@@ -1,5 +1,5 @@
 # Programming and Scripting
-# Week 2 - weekly tasks
+# Weekly task - Week 2
 # This program ask the user to enter two amounts in cents, reads in the amounts, adds them and prints out the total amount in cent.
 # Print out format @ the end with the euro sign - e.g: 2.22
 

@@ -10,13 +10,13 @@ __Week 1__
 
 This is my first program in python. It prints out 'Hello World'
 
-Filename: _helloworld.py_
+Filename: [helloworld.py](./helloworld.py)
 
 ***
 
 __Week 2 - Statements__
 
-Filename: bank.py
+Filename: [bank.py](./bank.py)
 
 Task: Write a program that should:
 1. Prompt the user and read in two money amounts (in cent)
@@ -31,7 +31,7 @@ References:
 
 __Week 3 - Variables__
 
-Filename: accounts.py
+Filename: [accounts.py](./accounts.py)
 
 Task: Write a program that:
 1. Reads in a 10 character account number
@@ -47,7 +47,7 @@ References:
 
 __Week 4 - Controlling the flow__
 
-Filename: collatz.py
+Filename: [collatz.py](./collatz.py)
 
 Task: Write a program that:
 1. Asks the user to input any positive integer
@@ -66,7 +66,7 @@ References:
 
 __Week 5 - Data__
 
-Filename: weekday.py
+Filename: [weekday.py](./weekday.py)
 
 Task: Write a program that outputs whether or not today is a weekday.
 
@@ -83,7 +83,24 @@ References:
 
 __Week 6 - Functions__
 
-Filename: 
+Filename: [squareroot.py](./squareroot.py)
+
+Task: Write a program that takes a positive floating-point number as input and outputs an approximation of its square root.
+
+This program will:
+1. Create my own function called sqrt() that finds the square root of the float number.
+2. Should be based on Newton's method of estimating square roots.
+
+References: 
+[Newton's Method](https://runestone.academy/ns/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html)
+
+***
+
+__Week 7 - Files__
+
+Filename: [es.py](./es.py)
+
+Task: 
 
 
 

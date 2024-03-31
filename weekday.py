@@ -1,5 +1,5 @@
 # Programming and Scripting
-# Week 5 - weekly tasks
+# Weekly Task - Week 5 
 # This program will display the day of the week, date, month, year and
 # depending on the day of the week one of the following messages:
 # 'Yes, unfortunately today is a weekday!' or 'It is the weekend, yay!'

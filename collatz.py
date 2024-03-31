@@ -1,5 +1,5 @@
 # Programming and Scripting (coding with Python)
-# Weekly Task 04 - Controlling the flow
+# Weekly Task -Week 4 - Controlling the flow
 
 # Program Title: Collatz Conjecture Exercise
 # This program takes a number(+) from the user and checks if:
