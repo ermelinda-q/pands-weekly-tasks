@@ -1,5 +1,5 @@
 # Programming and Scripting
-# Week 7 weekly tasks
+# Weekly task - Week 7
 # This program reads a text file and outputs the number of e's it contains.
 # file to read is week7.txt - this file is read by the program as an argument from command line.
 
