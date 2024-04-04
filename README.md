@@ -108,7 +108,7 @@ Task: This program reads a text file and outputs the number of e's it contains.
      - week7.txt - file to read
 
 References:
-[Counting the number of times a letter appear in a text file] (https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python)
+[Counting the number of times a letter appear in a text file](https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python)
 
 ***
 
