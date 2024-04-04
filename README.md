@@ -98,14 +98,12 @@ References:
 
 __Week 7 - Files__
 
-Filename: [es.py](./es.py)
+Filenames: [es.py](./es.py), [week7.txt](./week7.txt)
 
 Task: This program reads a text file and outputs the number of e's it contains.
 1. The file name 'week7.txt' should be given as a second argument in command line after the es.py file
-2. First we check the length of the argument read on the command line
-3. In order for the program to read how many e's are in the file be two arguments:
-     - es.py - our program file
-     - week7.txt - file to read
+2. We need to check the length of the arguments from command prompt.
+3. The right user entry should be 'python es.py week7.txt'
 
 References:
 [Counting the number of times a letter appear in a text file](https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python)
