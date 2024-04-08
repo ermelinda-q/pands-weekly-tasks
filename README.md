@@ -107,6 +107,8 @@ Task: This program reads a text file and outputs the number of e's it contains.
 
 References:
 [Counting the number of times a letter appear in a text file](https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python)
+[Read a file from the command line in Python](https://stackoverflow.com/questions/7439145/i-want-to-read-in-a-file-from-the-command-line-in-python)
+
 
 ***
 
