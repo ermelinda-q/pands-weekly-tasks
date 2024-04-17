@@ -23,7 +23,7 @@ Here you can find:
 To run the files stored in this repository you will need to download and install in your computer the following apps:
 
 - [Anaconda](https://www.anaconda.com/) - open-source platform that allows you to write and execute code in Python.
-- [Visual Studio Code](https://code.visualstudio.com/) - source code editor for developers. With Visual Studio Code you can open and run all python files(ending with .py) and [weekly-tasks.ipynb](/weekly-tasks.ipynb) that is a jupyter file.
+- [Visual Studio Code](https://code.visualstudio.com/) - source code editor for developers. With Visual Studio Code you can open and run all python files(ending with .py) and [weekly-tasks.ipynb](/weekly-tasks.ipynb) that is a jupyter notebook.
 - [Git](https://git-scm.com/downloads) - will help you create a copy of this repository in your local machine.
 
 Now you're setup to make a copy of this repository in your computer/local machine using the following command:
