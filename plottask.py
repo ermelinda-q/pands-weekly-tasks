@@ -52,7 +52,3 @@ plt.grid(True, color='olive')
 
 # display 
 plt.show()
-
-# https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/
-# https://rowannicholls.github.io/python/graphs/ax_based/histograms.html
-# .xlabel, .ylabel, .title, .legend and .grid setting based on https://matplotlib.org/stable/users/explain/quick_start.html

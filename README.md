@@ -142,7 +142,14 @@ References:
 
 __Week 8 - Looking ahead__
 
-Task: 
+Task: This program displays:
+1. a histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2, 
+2. a plot of the function  h(x)=x3 in the range 0 to 10, on the one set of axes.
+
+References:
+1. https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/
+2. https://rowannicholls.github.io/python/graphs/ax_based/histograms.html
+3. .xlabel, .ylabel, .title, .legend and .grid setting based on [matplotlib quick start](https://matplotlib.org/stable/users/explain/quick_start.html)
 
 
 
