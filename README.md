@@ -2,7 +2,33 @@
 #### Weekly tasks
 ##### *Author: Ermelinda Qejvani*
 
-This repository contains all weekly tasks required for 'Programming and Scripting' module.
+This README has been written with [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind.
+You can find out more about [writing in MarkDown in GitHub's documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+***
+### About
+
+This repository contains all weekly tasks required for 'Programming and Scripting' module in HDip course 'Computer Science with Data Analytics' @ [ATU](https://atu.ie)
+
+Here you can find:
+
+- All .py files for each week.
+- File [weekly-tasks.ipynb](/weekly-tasks.ipynb) - containing all .py files in one jupyter file.
+- .gitignore file.
+- this README file that contains requirements for each weekly task and references used.
+
+***
+### Get Started
+
+To run the files stored in this repository you will need to download and install in your computer the following apps:
+
+- [Anaconda](https://www.anaconda.com/) - open-source platform that allows you to write and execute code in Python.
+- [Visual Studio Code](https://code.visualstudio.com/) - source code editor for developers. With Visual Studio Code you can open and run all python files(ending with .py) and [weekly-tasks.ipynb](/weekly-tasks.ipynb) that is a jupyter file.
+- [Git](https://git-scm.com/downloads) - will help you create a copy of this repository in your local machine.
+
+Now you're setup to make a copy of this repository in your computer/local machine using the following command:
+
+$git clone https://github.com/ermelinda-q/pands-weekly-tasks.git$
 
 ***
 
