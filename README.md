@@ -13,7 +13,7 @@ This repository contains all weekly tasks required for 'Programming and Scriptin
 Here you can find:
 
 - All .py files for each week.
-- File [weekly-tasks.ipynb](/weekly-tasks.ipynb) - containing all .py files in one jupyter file.
+- File [weekly-tasks.ipynb](/weekly-tasks.ipynb) - containing all .py files in one jupyter notebook.
 - .gitignore file.
 - this README file that contains requirements for each weekly task and references used.
 
