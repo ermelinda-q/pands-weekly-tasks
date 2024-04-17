@@ -1,5 +1,5 @@
-## Module: Programming and Scripting 
-#### Weekly tasks
+## Programming and Scripting - Weekly Tasks
+
 ##### *Author: Ermelinda Qejvani*
 
 This README has been written with [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind.
