@@ -1,5 +1,5 @@
-# Programming and Scripting - Weekly Tasks
-# Week 8 - matplotlib
+# Programming and Scripting - coding with Python
+# Weekly Tasks - Week 8 - matplotlib
 # This program displays:
 # - a histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2, 
 # - a plot of the function  h(x)=x3 in the range 0 to 10, on the one set of axes.

@@ -1,5 +1,5 @@
-# Programming and Scripting
-# Weekly Task - Week 5 
+# Programming and Scripting - coding with Python
+# Weekly Task - Week 5 - Data
 # This program will display the day of the week, date, month, year and
 # depending on the day of the week one of the following messages:
 # 'Yes, unfortunately today is a weekday!' or 'It is the weekend, yay!'

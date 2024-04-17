@@ -1,5 +1,5 @@
-# Programming and Scripting
-# Weekly task - Week 2
+# Programming and Scripting - coding with Python
+# Weekly Tasks - Week 2 - Statements
 # This program ask the user to enter two amounts in cents, reads in the amounts, adds them and prints out the total amount in cent.
 # Print out format @ the end with the euro sign - e.g: 2.22
 

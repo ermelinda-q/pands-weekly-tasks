@@ -1,5 +1,5 @@
-# Programming and Scripting (coding with Python)
-# Weekly Task - Week 3 -  Statements
+# Programming and Scripting - coding with Python
+# Weekly Tasks - Week 3 -  Variables
 
 # Program Title: Reading a bank account and displaying only the last 4 digits
 # This program reads in an account number and displays only the last 4 digits

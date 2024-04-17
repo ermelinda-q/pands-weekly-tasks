@@ -1,5 +1,5 @@
-# Programming and Scripting
-# Weekly task - Week 6 
+# Programming and Scripting - coding with Python
+# Weekly Tasks - Week 6 - Functions
 # This program reads a floating point number as input and outputs its square root.
 # Aim of the program: Creating & working with functions.
 # Author: Ermelinda Qejvani
