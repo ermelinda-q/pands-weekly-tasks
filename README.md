@@ -28,9 +28,9 @@ To run the files stored in this repository you will need to download and install
 
 Now you're setup to make a copy of this repository in your computer/local machine using the following command:
 
-''' -sh
+```
 git clone https://github.com/ermelinda-q/pands-weekly-tasks.git
-'''
+```
 
 ***
 
