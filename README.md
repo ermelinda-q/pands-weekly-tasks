@@ -149,7 +149,7 @@ Task: This program displays:
 References:
 1. https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/
 2. https://rowannicholls.github.io/python/graphs/ax_based/histograms.html
-3. .xlabel, .ylabel, .title, .legend and .grid setting based on [matplotlib quick start](https://matplotlib.org/stable/users/explain/quick_start.html)
+3. .xlabel, .ylabel, .title, .legend and .grid setting based on [matplotlib API reference](https://matplotlib.org/stable/api/matplotlib_configuration_api.html)
 
 
 
