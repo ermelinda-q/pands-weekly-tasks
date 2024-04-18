@@ -30,8 +30,7 @@ plt.hist(hist_data, align='mid', color='pink', edgecolor='green', label='Normal 
 
 # building the plot of the function
 # defining a function(h) for our h(x)=x^3 function
-def h(x):           # for each given value of x
-    return x**3     # return value entered to the power of 3
+def h(x): return x**3      # for each given value of x, return value entered to the power of 3
 
 # defining x_values as an array of evenly spaced values 0-10 using .linspace function
 x_values = np.linspace(0, 10)
