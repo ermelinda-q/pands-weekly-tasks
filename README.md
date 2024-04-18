@@ -8,7 +8,9 @@ You can find out more about [writing in MarkDown in GitHub's documentation](http
 ***
 ### About
 
-This repository contains all weekly tasks required for 'Programming and Scripting' module in [Hdip in Science in Computing in Data Analytics](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics) @ [ATU](https://atu.ie)
+This repository contains all weekly tasks required for 'Programming and Scripting' module in [Hdip in Science in Computing in Data Analytics](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics) @ [ATU](https://atu.ie).
+
+All efforts are made to follow as much as possible [Style Guide for Python Code](https://peps.python.org/pep-0008/) while working in this tasks.
 
 Here you can find:
 
@@ -16,6 +18,7 @@ Here you can find:
 - File [weekly-tasks.ipynb](/weekly-tasks.ipynb) - containing all .py files in one jupyter notebook.
 - .gitignore file.
 - this README file that contains requirements for each weekly task and references used.
+
 
 ***
 ### Get Started
