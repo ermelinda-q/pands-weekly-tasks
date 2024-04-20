@@ -29,7 +29,7 @@ To run the files stored in this repository you will need to download and install
 - [Visual Studio Code](https://code.visualstudio.com/) - source code editor for developers. With Visual Studio Code you can open and run all python files(ending with .py) and [weekly-tasks.ipynb](/weekly-tasks.ipynb) file created with Jupyter Notebook. A guide how to install and setup Visual Studio Code in your computer can be found [here](https://code.visualstudio.com/learn/get-started/basics).
 - [Git](https://git-scm.com/downloads) - will help you to download a copy of this repository in your local machine. Installation guide can be found [here](https://github.com/git-guides/install-git).
 
-To make a copy of this repository in your computer/local machine using the following command:
+To make a copy of this repository in your computer/local machine run the following command:
 
 ```
 git clone https://github.com/ermelinda-q/pands-weekly-tasks.git
